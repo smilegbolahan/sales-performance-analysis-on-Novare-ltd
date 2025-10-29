@@ -15,3 +15,7 @@ This project analyzes a supermarket sales dataset containing detailed informatio
 7.  To identify actionable insights that can guide business strategies, improve sales efficiency, and enhance customer experience.
 
 
+## Business Goals
+
+* To analyse sales trend
+
