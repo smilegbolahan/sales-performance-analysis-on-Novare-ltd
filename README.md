@@ -17,5 +17,5 @@ This project analyzes a supermarket sales dataset containing detailed informatio
 
 ## Business Goals
 
-* To analyse sales trend
+* <img width="1083" height="476" alt="Captureuuuuuuuuuu" src="https://github.com/user-attachments/assets/9e50aecc-8a17-4cc4-9aea-3a60d0ef78d3" />
 
