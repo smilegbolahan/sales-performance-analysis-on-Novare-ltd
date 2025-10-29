@@ -1,3 +1,5 @@
+* <img width="1083" height="476" alt="Captureuuuuuuuuuu" src="https://github.com/user-attachments/assets/9e50aecc-8a17-4cc4-9aea-3a60d0ef78d3" />
+
 # sales-performance-analysis-on-Novare-ltd
 Exploratory Data Analysis using Python, pandas, matplotlib, seaborn, plotly
 
@@ -17,5 +19,5 @@ This project analyzes a supermarket sales dataset containing detailed informatio
 
 ## Business Goals
 
-* <img width="1083" height="476" alt="Captureuuuuuuuuuu" src="https://github.com/user-attachments/assets/9e50aecc-8a17-4cc4-9aea-3a60d0ef78d3" />
+
 
