@@ -1,8 +1,10 @@
-* <img width="1083" height="476" alt="Captureuuuuuuuuuu" src="https://github.com/user-attachments/assets/9e50aecc-8a17-4cc4-9aea-3a60d0ef78d3" />
+
 
 # sales-performance-analysis-on-Novare-ltd
 Exploratory Data Analysis using Python, pandas, matplotlib, seaborn, plotly
 
+ <img width="1083" height="476" alt="Captureuuuuuuuuuu" src="https://github.com/user-attachments/assets/9e50aecc-8a17-4cc4-9aea-3a60d0ef78d3" />
+ 
 ## Introduction
 This project analyzes a supermarket sales dataset containing detailed information on customer transactions across multiple branches. The aim is to identify sales trends, understand customer purchasing behavior, and evaluate overall business performance. Using Power BI, the data was cleaned, transformed, and visualized through interactive dashboards. These dashboards highlight sales trends across branches, top-performing product lines, customer preferences, and payment patterns. The insights gained from this analysis provide a clear understanding of what drives revenue and customer satisfaction, supporting data-driven decision-making for future growth.
 
